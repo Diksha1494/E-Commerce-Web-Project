@@ -1,2 +1,3 @@
 # E-Commerce Web-Project
-Author-Diksha Rai
+A basic E-Commerce website where you can browse for apparels and other clothing equipments. 
+
